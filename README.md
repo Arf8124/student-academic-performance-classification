@@ -1,4 +1,3 @@
-# student-academic-performance-classification
 # Prediksi Kelulusan Mahasiswa & Deteksi Dini Kegagalan Menggunakan Pembelajaran Mesin
 
 Repositori ini berisi proyek Ilmu Data yang berfokus pada prediksi hasil kelulusan mahasiswa dan memberikan deteksi dini risiko kegagalan akademik. Menggunakan data mahasiswa historis dari dua periode akademik yang berbeda, proyek ini mengimplementasikan pra-pemrosesan data, penyelarasan fitur, dan **Pengklasifikasi Random Forest** untuk membangun model prediktif.
